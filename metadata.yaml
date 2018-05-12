@@ -1,0 +1,34 @@
+_repo: Der-Occultismus-des-Altertums_43078
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Kuhlenbeck, Ludwig
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '46697'
+    url: http://www.gutenberg.org/2009/agents/46697
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kiesewetter, Karl
+    alias: Kiesewetter, Carl
+    birthdate: 1854
+    deathdate: 1895
+    gutenberg_agent_id: '42012'
+    url: http://www.gutenberg.org/2009/agents/42012
+description: ''
+gutenberg_issued: '2013-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43078'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Occultism -- Early works to 1900'
+title: Der Occultismus des Altertums
+url: http://www.gutenberg.org/ebooks/43078
